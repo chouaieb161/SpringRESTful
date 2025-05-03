@@ -19,7 +19,7 @@ pipeline{
     }
 
 
-    stage("testt"){
+    stage("test"){
 
       steps {
         
